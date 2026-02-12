@@ -1,11 +1,9 @@
 ---
 name: isolation-connection-diagnosis
-description: Diagnose how isolation contributes to dysfunction in any situation and
-  prescribe connection-based remedies. Both Victor Frankenstein and his creature were
-  destroyed by isolation—this skill identifi...
+description: Diagnose how isolation contributes to dysfunction in any situation and prescribe connection-based remedies. Both Victor Frankenstein and his creature were destroyed by isolation—this skill identifi...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - isolation-connection-diagnosis
